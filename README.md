@@ -8,3 +8,14 @@
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Persa89&style=for-the-badge&color=lightgrey"/>
   </a>
 </p>
+# 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙷𝙰𝚆𝙺𝙸𝙽𝚂 👾  
+> "Friends don't lie." – Eleven
+
+🧪 Desenvolvedor por fora, cientista do *Upside Down* por dentro.  
+🕹️ Amante de tecnologia vintage, códigos misteriosos e aventuras no console.  
+📍 Localizado entre Hawkins e algum terminal perdido.
+
+```diff
++ Criando portais com JavaScript
+- Fugindo do Demogorgon com Python
+! Aprendendo telecinese com C++
