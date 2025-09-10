@@ -1,8 +1,7 @@
-# 💻 Seja bem vindo ao meu Github 
+# 💻 Opa meu casquinha de bala, meu labubu
 
-- Jogador de Fornite competitivo (earnings: $700) 
 - Estudante
-- Fã de Harry Potter e Supernatural
+- Fã de séries, músicas boas (80's) e alguns esportes
 
                                                                                                    aranha🕷️
 
