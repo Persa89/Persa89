@@ -6,7 +6,7 @@
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Persa89&style=for-the-badge&color=lightgrey"/>
   </a>
 </p> 
-> 
+ 
 "Cada minuto que passa é mais uma chance para mudar tudo a sua volta." – David Aames
             
 
