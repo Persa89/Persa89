@@ -1,4 +1,4 @@
-# 💻 𝚂𝚎𝚓𝚊 𝚋𝚎𝚖-𝚟𝚒𝚗𝚍𝚘(𝚊) 𝚟𝚒𝚊𝚓𝚊𝚗𝚝𝚎, 𝚊𝚐𝚘𝚛𝚊 𝚟𝚘𝚌𝚎̂ 𝚎𝚜𝚝𝚊́ 𝚎𝚖 𝙋𝙚𝙧𝙨𝙖-𝙇𝙖̂𝙣𝙙𝙞𝙖, 𝚞𝚖𝚊 𝚌𝚒𝚍𝚊𝚍𝚎𝚣𝚒𝚗𝚑𝚊 𝚌𝚘𝚖 𝚙𝚎𝚜𝚜𝚘𝚊𝚜 𝚒𝚗𝚌𝚛𝚒́𝚟𝚎𝚒𝚜 𝚎 𝚊𝚖𝚒𝚐𝚊́𝚟𝚎𝚒𝚜
+# 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙷𝙰𝚆𝙺𝙸𝙽𝚂  
 
 (𝔽𝕒̃ 𝕕𝕖 𝕤𝕖́𝕣𝕚𝕖𝕤, 𝕞𝕦́𝕤𝕚𝕔𝕒𝕤 𝕓𝕠𝕒𝕤 (𝟴𝟬'𝘀) 𝕖 𝕒𝕝𝕘𝕦𝕟𝕤 𝕖𝕤𝕡𝕠𝕣𝕥𝕖𝕤)
                                                                                    
@@ -7,15 +7,9 @@
   <a href="https://github.com/Persa89/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Persa89&style=for-the-badge&color=lightgrey"/>
   </a>
-</p>
-# 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙷𝙰𝚆𝙺𝙸𝙽𝚂 👾  
-> "Friends don't lie." – Eleven
-
-🧪 Desenvolvedor por fora, cientista do *Upside Down* por dentro.  
-🕹️ Amante de tecnologia vintage, códigos misteriosos e aventuras no console.  
-📍 Localizado entre Hawkins e algum terminal perdido.
+</p> 
+> "Cada minuto que passa é mais uma chance para mudar tudo a sua volta." – David Aames
+              (𝔽𝕒̃ 𝕕𝕖 𝕤𝕖́𝕣𝕚𝕖𝕤, 𝕞𝕦́𝕤𝕚𝕔𝕒𝕤 𝕓𝕠𝕒𝕤 (𝟴𝟬'𝘀) 𝕖 𝕒𝕝𝕘𝕦𝕟𝕤 𝕖𝕤𝕡𝕠𝕣𝕥𝕖𝕤)
 
 ```diff
-+ Criando portais com JavaScript
-- Fugindo do Demogorgon com Python
-! Aprendendo telecinese com C++
+- Fugindo do Demogorgon
